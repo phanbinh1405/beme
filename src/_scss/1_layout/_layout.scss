@@ -1,0 +1,12 @@
+/* layout
+------------------------------------------------------------*/
+body {
+    font-family: $main-fonts;
+    line-height: 1.5;
+    @include sp {
+        min-width: 320px;
+    }
+    max-width: 1680px;
+    margin: 0 auto;
+    background-color: $gray-color-lightest;
+}

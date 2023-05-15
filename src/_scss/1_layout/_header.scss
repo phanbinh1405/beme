@@ -1,0 +1,28 @@
+.c-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+
+    .c-gnav {
+        padding: 40px 40px 0;
+        display: flex;
+        max-width: 1680px;
+        margin: 0 auto;
+    }
+
+    .c-hader__btn {
+        padding: 20px 36px;
+        background: #6e31ff 0% 0% no-repeat padding-box;
+        background: #6e31ff 0% 0% no-repeat padding-box;
+        box-shadow: 16px 24px 32px #6e31ff3d;
+        border-radius: 28px;
+        display: inline-block;
+        margin-left: auto;
+    }
+
+    .c-header__btntext {
+        width: 95px;
+    }
+}

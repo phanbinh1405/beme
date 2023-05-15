@@ -1,0 +1,27 @@
+<%- include('_layouts/layout', { title: 'Home page' }); -%>
+
+  <!-- @meta -->
+  <meta name="description" content="Hair check Beme home page">
+  <!-- @@meta -->
+
+  <!-- @content -->
+  <main class="top">
+    <div class="top-background">
+      <img src="./assets/img/pc/main-bg.jpg" class="top-image" alt="main background">
+      <div class="top-svgwrapper">
+        <div class="top-svgwrapper__content"></div>
+      </div>
+
+      <%- include('_partials/main') %>
+        <%- include('_partials/about') %>
+    </div>
+    <%- include('_partials/point') %>
+    <%- include('_partials/service') %>
+    <%- include('_partials/howtouse') %>
+    <%- include('_partials/entry') %>
+  </main>
+  <!-- @@content -->
+
+  <!-- @script -->
+
+  <!-- @@script -->

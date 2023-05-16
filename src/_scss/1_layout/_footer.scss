@@ -1,0 +1,94 @@
+.c-footer {
+    .c-footer__top {
+        max-width: 800px;
+        width: 100%;
+        margin: 371px auto 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .c-footer__title {
+        max-width: 630px;
+        transform: translate(-5px, 2px);
+    }
+
+    .c-footer__btn {
+        display: flex;
+        width: 768px;
+        background: $main-color;
+        border-radius: 112px;
+        box-shadow: 48px 64px 96px #6e31ff3d;
+        padding: 16px;
+        margin-top: 127px;
+    }
+
+    .c-footer__btnnum {
+        display: inline-flex;
+        flex-direction: column;
+        background-color: $gray-color-lightest;
+        width: 192px;
+        height: 192px;
+        border-radius: 50%;
+        align-items: center;
+        justify-content: center;
+        margin-right: 67px;
+    }
+
+    .c-footer__btntextnum {
+        width: 70px;
+        margin-bottom: 11px;
+    }
+
+    .c-footer__btntext {
+        width: 93px;
+    }
+
+    .c-footer__share {
+        margin-top: 417px;
+        margin-bottom: 225px;
+        background: url(./assets/img/pc/footer/share-bg.png) no-repeat;
+        background-size: 53.13%;
+        background-position: center;
+    }
+
+    .c-footer__social {
+        display: flex;
+        margin: 0 auto;
+        max-width: 338px;
+    }
+
+    .c-footer__socialicon {
+        background-color: $gray-color;
+        width: 80px;
+        height: 80px;
+        box-shadow: 24px 32px 48px #0000001f;
+        border-radius: 50%;
+        margin: 16px;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+
+        img {
+            scale: 0.5;
+        }
+    }
+
+    .c-footer__produce {
+        text-align: center;
+        padding: 190px 0 184px;
+    }
+
+    .c-footer__mefilas {
+        scale: 0.5;
+        margin-top: 8px;
+    }
+
+    .c-footer__produceby {
+        font-family: $second-fonts;
+        font-size: 1rem;
+        font-weight: 600;
+        text-align: center;
+        color: $gray-color;
+    }
+}

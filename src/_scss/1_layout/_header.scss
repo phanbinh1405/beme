@@ -4,6 +4,9 @@
     left: 0;
     right: 0;
     z-index: 99;
+    @include sp {
+        display: none;
+    }
 
     .c-gnav {
         padding: 40px 40px 0;

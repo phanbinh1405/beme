@@ -5,4 +5,4 @@ Pass
 Bemebeme01
 
 Photoshop
-https://drive.google.com/drive/folders/10NNPD3NUumiaJcPdW3DIvd47oNJS8-pi?usp=sharing
+https://drive.google.com/drive/folders/10NNPD3NUumiaJcPdW3DIvd47oNJS8-pi?usp=sharingnpm

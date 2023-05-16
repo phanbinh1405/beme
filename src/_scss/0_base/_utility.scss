@@ -1,0 +1,6 @@
+.u-breakline--pc {
+    display: block;
+    @include sp {
+        display: none;
+    }
+}

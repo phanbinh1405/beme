@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Group_1653" data-name="Group 1653" transform="translate(-320 -4967)">
+    <g id="Group_1312" data-name="Group 1312" transform="translate(320 4967)">
+      <g id="Group_972" data-name="Group 972" transform="translate(0)">
+        <rect id="Rectangle_974" data-name="Rectangle 974" width="96" height="96" fill="none"/>
+      </g>
+    </g>
+    <g id="グループ_1372" data-name="グループ 1372" transform="translate(334.4 4974.2)">
+      <g id="グループ_1370" data-name="グループ 1370" transform="translate(43.608 48.305)">
+        <g id="グループ_1368" data-name="グループ 1368">
+          <circle id="楕円形_188" data-name="楕円形 188" cx="11.317" cy="11.317" r="11.317" fill="none" stroke="#6e31ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <line id="線_85" data-name="線 85" x1="10.123" y1="10.123" transform="translate(19.319 19.32)" fill="none" stroke="#6e31ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+        <g id="グループ_1369" data-name="グループ 1369">
+          <circle id="楕円形_189" data-name="楕円形 189" cx="11.317" cy="11.317" r="11.317" fill="none" stroke="#6e31ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <line id="線_86" data-name="線 86" x1="10.123" y1="10.123" transform="translate(19.319 19.32)" fill="none" stroke="#6e31ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+      </g>
+      <path id="パス_861" data-name="パス 861" d="M1236.332,853.3h-57.788a2.336,2.336,0,0,1-2.336-2.335V774.669a2.336,2.336,0,0,1,2.336-2.335h57.788a2.333,2.333,0,0,1,2.333,2.332h0v39.472" transform="translate(-1176.207 -772.334)" fill="none" stroke="#2b2c34" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <g id="グループ_1371" data-name="グループ 1371" transform="translate(16.354 25.484)">
+        <line id="線_87" data-name="線 87" x2="29.755" transform="translate(0 14.998)" fill="none" stroke="#2b2c34" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="線_88" data-name="線 88" x2="19.413" transform="translate(0 29.994)" fill="none" stroke="#2b2c34" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="線_89" data-name="線 89" x2="29.755" fill="none" stroke="#2b2c34" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -10,12 +10,15 @@ var swiper = new Swiper(".top-how__slide", {
     delay: 5000,
   },
 });
-var swiper = new Swiper(".top-media", {
-	slidesPerView: 'auto',
-  loop: true,
-	centeredSlides: true,
-	spaceBetween: 0,
-  autoplay: {
-    delay: 5000,
-  },
+
+
+$('.top-media__list').slick({
+  dots: false,
+	arrows: false,
+  infinite: true,
+  speed: 300,
+  slidesToShow: 1,
+  centerMode: true,
+  variableWidth: true
 });
+

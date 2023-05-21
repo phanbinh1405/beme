@@ -9,8 +9,8 @@
       <%= (typeof title != "undefined" ? title : "Page title") %>
     </title>
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600&family=Noto+Sans+JP:wght@500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
-/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
     {{ meta }}
 
     <script type="module" src="/_scss/style.js"></script>
@@ -25,7 +25,9 @@
     <%- include('_partials/footer'); -%>
 
     {{ script }}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" ></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>  
+    <script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="/assets/js/main.js"></script>
   </body>
 </html>
